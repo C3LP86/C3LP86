@@ -3,13 +3,11 @@
 - 🌱 I’m currently learning Python, C and Dockerfile/Docker-Compose.
 
 ----
+##### Hi, I'm C3LP86, a student in the field of cybersecurity at Ecole 2600 and also an apprentice working as an analyst specializing in OSINT (Open Source Intelligence), which is a fascinating field.
 
-##### Hi, My name is C3LP86, i am a future student of Ecole 2600 which is a cybersecurity school and i like the offensive field mainly the pentest, i am curios and interest in the dev, currently i am learning the Python, C, Powershell, Java, HTML/CSS and Bash, but my main language is python and C.
+##### I am primarily interested in Python and Dockerfile/Docker-compose, but I am also open to PowerShell and C (I have already practiced Bash, which I no longer use, and Java, for which I have only learned the basics, as well as HTML/CSS).
 
-##### I learn Python with my personal projects to take a maximum of skills and make my own pentest tools (ex : nmap, hydra, gobuster, radare2, johntheripper, Burp suite, CrackMapExec, etc..)
-
-###### I am a beginner in the dev and i'm sorry for my english which is not perfect
-
+##### Outside of development, I am learning digital forensics out of passion and also a bit about pentesting.
 ----
 
 

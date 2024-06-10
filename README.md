@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @C3LP86
-- 👀 I’m interested in Cybersecurity / Pentest / Dev
+- 👀 I’m interested in Cybersecurity -> Osint, Dev, Forensic and Pentest
 - 🌱 I’m currently learning Python, C and Dockerfile/Docker-Compose.
 
 ----

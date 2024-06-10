@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C3LP86
 - 👀 I’m interested in Cybersecurity / Pentest / Dev
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning Python, C and Dockerfile/Docker-Compose.
 
 ----
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C3LP86
 - 👀 I’m interested in Cybersecurity -> Osint, Dev, Forensic and Pentest
-- 🌱 I’m currently learning Python, C and Dockerfile/Docker-Compose.
+- 🌱 I’m currently learning Python, C, ASM and Dockerfile/Docker-Compose.
 
 ----
 ##### Hi, I'm C3LP86, a student in the field of cybersecurity at Ecole 2600 and also an apprentice working as an analyst specializing in OSINT (Open Source Intelligence), which is a fascinating field.
